@@ -22,3 +22,5 @@ config.yml
 /.project
 /.settings
 .pydevproject
+history/
+.cache/
